@@ -14,4 +14,4 @@ A simple command-line ATM simulator written in C.
 3. Default PIN: 1234
 
 ## Author
-Your Name
+Divyansh Kashiv
